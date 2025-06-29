@@ -4,13 +4,6 @@ This repository contains the Python code and sample social media and bibliometri
 
 ---
 
-## 📂 Repository Structure
----
-TBC.
-
----
-
-
 ## 📧 Contact  
 For questions, collaborations, or further inquiries, please reach out to Dr. Chengxiang Zhuge:  
 ✉️ [chengxiang.zhuge@polyu.edu.hk] | 🌐 [[https://thetipteam.wixstudio.com/website]  
